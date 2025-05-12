@@ -10,3 +10,4 @@ gdown
 mediapipe
 face_recognition
 dlib
+cmake
